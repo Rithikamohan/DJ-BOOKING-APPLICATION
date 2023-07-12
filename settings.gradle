@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        //https://jitpack.io
+//        maven { url 'https://maven.pkg.github.com/Cuberto/liquid-swipe-android' }
+
+    }
+}
+rootProject.name = "DJBOOKUP"
+include ':app'
