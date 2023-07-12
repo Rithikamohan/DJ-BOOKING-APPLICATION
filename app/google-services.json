@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812132296519",
+    "project_id": "djbookup",
+    "storage_bucket": "djbookup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812132296519:android:181e51de8ccfdfff2a8e62",
+        "android_client_info": {
+          "package_name": "com.example.djbookup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812132296519-26j63gppe3nndilsnlbv6gdtc68vg1ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMLa5mn7_fW1Jjmc3TMZNtmBD10vknCaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812132296519-26j63gppe3nndilsnlbv6gdtc68vg1ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
